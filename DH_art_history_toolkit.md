@@ -17,7 +17,7 @@ fairly crude, but a number of tools do allow you to work with images as
 data.*
 
 [Image Plot, Image Montage, Image Slice, and Visual
-Sense](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)\
+Sense](http://lab.softwarestudies.com/p/software-for-digital-humanities.html):
 Created by the Lev Manovich-led Software Studies Initiative, these tools
 allow you to analyze many images at once. Image Plot arranges images on
 axes according to user-defined parameters, Image Montage arrays tiny
